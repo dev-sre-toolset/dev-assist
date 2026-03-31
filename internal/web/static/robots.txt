@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dev-sre-toolset.github.io/dev-assist/sitemap.xml
