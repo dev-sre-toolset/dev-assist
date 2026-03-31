@@ -8,7 +8,7 @@ import (
 	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/datsabk/dev-assist/internal/tools"
+	"github.com/dev-sre-toolset/dev-assist/internal/tools"
 )
 
 // inputMode toggles between raw text and file-path entry.

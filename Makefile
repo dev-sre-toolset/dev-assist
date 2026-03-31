@@ -3,7 +3,7 @@ VERSION ?= $(shell git describe --tags --always --dirty 2>/dev/null || echo "dev
 LDFLAGS := -ldflags "-X main.version=$(VERSION) -s -w"
 OUTDIR  := bin
 
-IMAGE   ?= ghcr.io/datsabk/dev-assist
+IMAGE   ?= ghcr.io/dev-sre-toolset/dev-assist
 
 .PHONY: all build build-all docker docker-push release clean install tidy help
 

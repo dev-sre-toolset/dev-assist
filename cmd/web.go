@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/datsabk/dev-assist/internal/web"
+	"github.com/dev-sre-toolset/dev-assist/internal/web"
 )
 
 var webCmd = &cobra.Command{

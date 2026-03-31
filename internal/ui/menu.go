@@ -7,7 +7,7 @@ import (
 	"github.com/charmbracelet/bubbles/list"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/datsabk/dev-assist/internal/tools"
+	"github.com/dev-sre-toolset/dev-assist/internal/tools"
 )
 
 // menuItem wraps a *tools.Tool to satisfy bubbles/list.Item.

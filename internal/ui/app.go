@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	tea "github.com/charmbracelet/bubbletea"
-	"github.com/datsabk/dev-assist/internal/tools"
+	"github.com/dev-sre-toolset/dev-assist/internal/tools"
 )
 
 type appState int

@@ -6,8 +6,8 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/spf13/cobra"
-	"github.com/datsabk/dev-assist/internal/tools"
-	"github.com/datsabk/dev-assist/internal/ui"
+	"github.com/dev-sre-toolset/dev-assist/internal/tools"
+	"github.com/dev-sre-toolset/dev-assist/internal/ui"
 )
 
 func init() {

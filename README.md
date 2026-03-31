@@ -11,26 +11,26 @@ Works as an interactive TUI, a scriptable CLI subcommand, and a **web UI** you c
 
 ```bash
 # macOS (Apple Silicon)
-curl -Lo dev-assist https://github.com/datsabk/dev-assist/releases/latest/download/dev-assist-darwin-arm64
+curl -Lo dev-assist https://github.com/dev-sre-toolset/dev-assist/releases/latest/download/dev-assist-darwin-arm64
 chmod +x dev-assist && mv dev-assist /usr/local/bin/
 
 # macOS (Intel)
-curl -Lo dev-assist https://github.com/datsabk/dev-assist/releases/latest/download/dev-assist-darwin-amd64
+curl -Lo dev-assist https://github.com/dev-sre-toolset/dev-assist/releases/latest/download/dev-assist-darwin-amd64
 chmod +x dev-assist && mv dev-assist /usr/local/bin/
 
 # Linux (amd64)
-curl -Lo dev-assist https://github.com/datsabk/dev-assist/releases/latest/download/dev-assist-linux-amd64
+curl -Lo dev-assist https://github.com/dev-sre-toolset/dev-assist/releases/latest/download/dev-assist-linux-amd64
 chmod +x dev-assist && mv dev-assist /usr/local/bin/
 
 # Linux (arm64)
-curl -Lo dev-assist https://github.com/datsabk/dev-assist/releases/latest/download/dev-assist-linux-arm64
+curl -Lo dev-assist https://github.com/dev-sre-toolset/dev-assist/releases/latest/download/dev-assist-linux-arm64
 chmod +x dev-assist && mv dev-assist /usr/local/bin/
 ```
 
 ### Build from source
 
 ```bash
-git clone https://github.com/datsabk/dev-assist.git
+git clone https://github.com/dev-sre-toolset/dev-assist.git
 cd dev-assist
 make build          # current platform  → bin/dev-assist
 make build-all      # all platforms     → bin/
@@ -220,7 +220,7 @@ make release TAG=v0.1
 This will:
 1. Cross-compile binaries for 4 platforms into `bin/` (macOS arm64/amd64, Linux arm64/amd64)
 2. Create and push an annotated git tag `v0.1`
-3. Create a GitHub release on `github.com/datsabk/dev-assist` with all binaries attached
+3. Create a GitHub release on `github.com/dev-sre-toolset/dev-assist` with all binaries attached
 
 ### Manual step-by-step
 

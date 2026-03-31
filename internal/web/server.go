@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/datsabk/dev-assist/internal/tools"
+	"github.com/dev-sre-toolset/dev-assist/internal/tools"
 )
 
 //go:embed static

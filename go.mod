@@ -1,4 +1,4 @@
-module github.com/datsabk/dev-assist
+module github.com/dev-sre-toolset/dev-assist
 
 go 1.21
 

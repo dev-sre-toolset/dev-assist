@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: dev-assist
-          image: ghcr.io/datsabk/dev-assist:latest
+          image: ghcr.io/dev-sre-toolset/dev-assist:latest
           ports:
             - containerPort: 8080
           resources:

@@ -379,22 +379,22 @@ function showDocs() {
   <h2>Quick Install</h2>
   <h3>Download pre-built binary</h3>
   <code class="docs-code"># macOS — Apple Silicon
-curl -Lo dev-assist https://github.com/datsabk/dev-assist/releases/latest/download/dev-assist-darwin-arm64
+curl -Lo dev-assist https://github.com/dev-sre-toolset/dev-assist/releases/latest/download/dev-assist-darwin-arm64
 chmod +x dev-assist &amp;&amp; mv dev-assist /usr/local/bin/
 
 # macOS — Intel
-curl -Lo dev-assist https://github.com/datsabk/dev-assist/releases/latest/download/dev-assist-darwin-amd64
+curl -Lo dev-assist https://github.com/dev-sre-toolset/dev-assist/releases/latest/download/dev-assist-darwin-amd64
 chmod +x dev-assist &amp;&amp; mv dev-assist /usr/local/bin/
 
 # Linux — amd64
-curl -Lo dev-assist https://github.com/datsabk/dev-assist/releases/latest/download/dev-assist-linux-amd64
+curl -Lo dev-assist https://github.com/dev-sre-toolset/dev-assist/releases/latest/download/dev-assist-linux-amd64
 chmod +x dev-assist &amp;&amp; mv dev-assist /usr/local/bin/
 
 # Linux — arm64
-curl -Lo dev-assist https://github.com/datsabk/dev-assist/releases/latest/download/dev-assist-linux-arm64
+curl -Lo dev-assist https://github.com/dev-sre-toolset/dev-assist/releases/latest/download/dev-assist-linux-arm64
 chmod +x dev-assist &amp;&amp; mv dev-assist /usr/local/bin/</code>
   <h3>Build from source (Go 1.21+)</h3>
-  <code class="docs-code">git clone https://github.com/datsabk/dev-assist.git
+  <code class="docs-code">git clone https://github.com/dev-sre-toolset/dev-assist.git
 cd dev-assist
 make build          # current platform → bin/dev-assist
 make install        # installs to $GOPATH/bin</code>

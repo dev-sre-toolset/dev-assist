@@ -62,7 +62,7 @@ A full copy of the license is available in the [LICENSE](LICENSE) file.
    ```
 3. Add the upstream remote so you can keep your fork in sync:
    ```bash
-   git remote add upstream https://github.com/datsabk/dev-assist.git
+   git remote add upstream https://github.com/dev-sre-toolset/dev-assist.git
    ```
 4. Install dependencies and verify the build:
    ```bash
@@ -153,7 +153,7 @@ dev-assist uses a central registry (`internal/tools/registry.go`). Adding a tool
    ```go
    package tools
 
-   import "github.com/datsabk/dev-assist/internal/tools"
+   import "github.com/dev-sre-toolset/dev-assist/internal/tools"
 
    func init() {
        tools.Register(tools.Tool{
