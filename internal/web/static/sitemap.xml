@@ -1,97 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/</loc>
+    <loc>https://decode-me.abhishekkothari.in/</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=jwt</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=jwt</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=ssl-decode</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=ssl-decode</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=ssl-verify</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=ssl-verify</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=saml</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=saml</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=dns</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=dns</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=whois</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=whois</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=cidr</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=cidr</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=http-headers</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=http-headers</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=base64</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=base64</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=url</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=url</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=json-yaml</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=json-yaml</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=timestamp</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=timestamp</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=date-diff</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=date-diff</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=pem-parse</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=pem-parse</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dev-sre-toolset.github.io/dev-assist/?tool=csr-gen</loc>
+    <loc>https://decode-me.abhishekkothari.in/?tool=csr-gen</loc>
     <lastmod>2024-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
